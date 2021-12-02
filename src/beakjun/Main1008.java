@@ -7,6 +7,6 @@ public class Main1008 {
 		Scanner scan = new Scanner(System.in);
 		double a = scan.nextInt();
 		double b = scan.nextInt();
-		System.out.println(String.format("%.9f", a / b));
+		System.out.println(String.format("%.9f", a / b));	//소숫점 자르기 9까지
 	}
 }
