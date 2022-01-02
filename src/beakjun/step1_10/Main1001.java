@@ -1,8 +1,8 @@
-package beakjun;
+package beakjun.step1_10;
 
 import java.util.Scanner;
 
-public class Main1 {
+public class Main1001 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);			//Scanner(!입력장치 선택!) System.in 은 키보드

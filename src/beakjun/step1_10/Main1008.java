@@ -1,4 +1,4 @@
-package beakjun;
+package beakjun.step1_10;
 
 import java.util.Scanner;
 

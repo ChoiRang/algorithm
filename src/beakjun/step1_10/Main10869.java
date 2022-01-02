@@ -1,8 +1,8 @@
-package beakjun;
+package beakjun.step1_10;
 
 import java.util.Scanner;
 
-public class Main3 {
+public class Main10869 {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		int a = scan.nextInt();
