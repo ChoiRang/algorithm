@@ -13,4 +13,14 @@ public class SeparateNumber {
     }
     return numberArray;
   }
+
+  public int[] separateNumber(String number){
+    int[] numberArray = new int[number.length()];
+
+    for(int i = 0; i < number.length(); i++){
+      String num = String.valueOf(number.charAt(i));
+      numberArray[i] = Integer.parseInt(num);
+    }
+    return numberArray;
+  }
 }
