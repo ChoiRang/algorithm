@@ -10,7 +10,7 @@ public class DevelopeFunction {
 		int progress = 0;
 		int speed = 0;
 		int count = 0;
-    
+
     Queue<Integer> days = new LinkedList<>();
     List<Integer> distributionDay = new ArrayList<Integer>();
     
